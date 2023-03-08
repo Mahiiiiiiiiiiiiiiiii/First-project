@@ -1,1 +1,6 @@
 The First man
+
+Today learn some git commands 
+  1.git add
+  2.git init
+  3.git commit
